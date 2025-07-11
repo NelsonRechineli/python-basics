@@ -4,4 +4,4 @@ for numero in numeros:
         print(f"{numero} é par.")
         
 else:
-    print("Nenhum número par encontrado.")
+    print("Nenhum número par foi encontrado.")
